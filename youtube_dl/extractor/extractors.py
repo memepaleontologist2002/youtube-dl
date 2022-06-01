@@ -1510,7 +1510,6 @@ from .vrv import (
 )
 from .vshare import VShareIE
 from .vtm import VTMIE
-from .vtv import VTVIE
 from .medialaan import MedialaanIE
 from .vube import VubeIE
 from .vuclip import VuClipIE
